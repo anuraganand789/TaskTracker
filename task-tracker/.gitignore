@@ -1,1 +1,8 @@
 /target/
+#ignore vim intermediate files
+*.swp
+
+#eclipse IDE files
+*.classpath
+*.settings
+
